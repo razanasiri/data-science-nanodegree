@@ -17,6 +17,18 @@ The predictors of in-hospital mortality for intensive care units (ICU)-admitted 
 The primary outcome of the study was in-hospital mortality, defined as the vital status at the time of hospital discharge in survivors and non-survivors; the tasks involved are the following:
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here. However, you can see pieces of the analysis here. This README also serves as a template for students to follow in creating their own project README files.
+## libraries used
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
+%matplotlib inline
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_absolute_error
+from sklearn.linear_model import LinearRegression
 
 ## File Descriptions
 There are 3 notebooks available here to showcase work related to the above study. Each of the notebooks is exploratory in searching through the data pertaining to showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
