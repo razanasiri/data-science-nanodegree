@@ -5,7 +5,7 @@
 * [File Descriptions](#File-Descriptions)
 * [Results](#Results)
 * [Licensing, Authors, and Acknowledgements](#Licensing,-Authors,-and-Acknowledgements)
-
+* [Blog](#Blog)
 
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
@@ -17,6 +17,7 @@ The predictors of in-hospital mortality for intensive care units (ICU)-admitted 
 The primary outcome of the study was in-hospital mortality, defined as the vital status at the time of hospital discharge in survivors and non-survivors; the tasks involved are the following:
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here. However, you can see pieces of the analysis here. This README also serves as a template for students to follow in creating their own project README files.
+
 ## libraries used
 
 import pandas as pd
@@ -46,5 +47,11 @@ Naive Bayes — 93%
 Decision Tree Algorithm — 91%
 Random Forest Classification — 90%
 
+## Blog 
+
+Title preview :
+In Hospital Mortality Prediction. Machine Learning Engineer | by RazanAL-asiri | Sep, 2021 | Medium
+link> https://medium.com/@razanaasiri2/in-hospital-mortality-prediction-ad2048863b91
+
 ## Licensing, Authors, Acknowledgements
-Must give credit to Boston AirBNB Data You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+Must give credit to In Hospital Mortality Prediction Data You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
